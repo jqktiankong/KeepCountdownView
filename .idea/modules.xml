@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/KeepCountdownView.iml" filepath="$PROJECT_DIR$/KeepCountdownView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/countdownlibrary/countdownlibrary.iml" filepath="$PROJECT_DIR$/countdownlibrary/countdownlibrary.iml" />
+    </modules>
+  </component>
+</project>
